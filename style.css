@@ -1,19 +1,19 @@
 body{
-    background-color: lightblue;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(10, 152, 27, 0.679);
+    font-family: Arial, sans-serif;
     text-align: center;
 }
 
 h1{
-    color: darkblue;
+    color: rgb(0, 67, 55);
 }
 
 p{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 button{
-    background-color: darkblue;
+    background-color: rgb(1, 36, 9);
     color: white;
     padding: 10px;
 }
@@ -21,12 +21,12 @@ button{
 .bloco{
     width: 500px;
     border: 2px solid rgb(7, 7, 219);
-    background-color: rgb(200, 200, 253);
+    background-color: rgb(226, 230, 149);
     padding: 15px;
     margin: 15px auto;
 }
 
 input{
     padding: 8px;
-    font-size: 16px;
+    font-size: 15px;
 }
